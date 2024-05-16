@@ -37,10 +37,6 @@
 ## Output:
 ![image](https://github.com/Devadhaarini/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145796552/384f1571-d16c-4b06-990d-d83e5f6ecbb4)
 
-
-
-
-
 ### Name: DEVADHAARINI.D
 ### Register Number: 212223230040
 
